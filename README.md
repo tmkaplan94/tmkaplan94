@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @tmkaplan94 and a Computer Game Science major at UC Irvine.
-- 👀 I’m interested in Game Development and Design.
-- 🌱 I’m currently learning Design Patterns.
-- 💞️ I’m looking to collaborate on small to medium indy games.
-- 📫 You can find my portfolio and contact info at 'https://www.tmkaplan94.com/'
+- 👋 Hi, I’m @tmkaplan94 and a Computer Game Science (B.S.) major at UC Irvine
+- ❤️ I’m interested in game and mobile app development
+- 👀 I’m currently looking for full-time employment
+- 📫 You can contact me at tmkaplan94@gmail.com
 
 <!---
 tmkaplan94/tmkaplan94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
