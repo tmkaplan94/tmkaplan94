@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tmkaplan94 and a Computer Game Science (B.S.) major at UC Irvine
+- 👋 Hi, I’m @tmkaplan94 and I am a software engineer
+- 📜 I graduated from the University of California, Irvine with a degree in Computer Game Science B.S.
 - ❤️ I’m interested in game and mobile app development
 - 👀 I’m currently looking for full-time employment
 - 📫 You can contact me at https://www.linkedin.com/in/tmkaplan94/
